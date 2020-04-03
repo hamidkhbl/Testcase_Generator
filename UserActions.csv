@@ -1,0 +1,43 @@
+2020-02-07 13:14:13.397,The Cold Regions Hydrological Model - D:\\CRHM\\DemoMacroTesting\\t ,Window,LeftClick,ame=,Desktop 1\ame=\,LeftClick on the The Cold Regions Hydrological Model - D:\\CRHM\\DemoMacroTesting\\t Window on the ame= window 
+2020-02-07 13:16:47.045,Project ,MenuItem,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the Project MenuItem on the Dialog window 
+2020-02-07 13:17:27.572,Dialog ,Window,MouseWheel,Dialog,Desktop 1\Dialog\,MouseWheel on the Dialog Window on the Dialog window 
+2020-02-07 13:17:31.635,Name ,Edit,LeftClick,Open,Desktop 1\Dialog\Open\,LeftClick on the Name Edit on the Open window 
+2020-02-07 13:17:35.884,Open ,Button,LeftClick,Open,Desktop 1\Dialog\Open\,LeftClick on the Open Button on the Open window 
+2020-02-07 13:17:41.059,hru_snow ,ListItem,LeftClick,hru_snow,Desktop 1\hru_snow\,LeftClick on the hru_snow ListItem on the hru_snow window 
+2020-02-07 13:18:35.956,Project ,MenuItem,LeftClick,Application,Desktop 1\Application\,LeftClick on the Project MenuItem on the Application window 
+2020-02-07 13:18:54.546, ,List,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the  List on the Dialog window 
+2020-02-07 13:19:09.604,Position ,Thumb,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Position Thumb on the The Cold Regions Hydrological Model window 
+2020-02-07 13:21:25.611,Observations ,Text,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Observations Text on the The Cold Regions Hydrological Model window 
+2020-02-07 13:21:26.851,UIRecorder ,Window,LeftClick,UIRecorder,Desktop 1\UIRecorder\,LeftClick on the UIRecorder Window on the UIRecorder window 
+2020-02-07 13:21:40.859, ,List,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the  List on the Dialog window 
+2020-02-07 13:21:42.290, ,List,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the  List on the Dialog window 
+2020-02-07 13:21:50.130,Create Group ,MenuItem,LeftClick,Dialog,Desktop 1\Dialog\Dialog\,LeftClick on the Create Group MenuItem on the Dialog window 
+2020-02-07 13:22:06.083,Build ,Button,LeftClick,Select Modules for Model,Desktop 1\The Cold Regions Hydrological Model\Select Modules for Model\,LeftClick on the Build Button on the Select Modules for Model window 
+2020-02-07 13:22:11.402, ,Pane,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the  Pane on the The Cold Regions Hydrological Model window 
+2020-02-07 13:22:12.667,Above ,ListItem,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Above ListItem on the The Cold Regions Hydrological Model window 
+2020-02-07 13:22:14.979,Below ,ListItem,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Below ListItem on the The Cold Regions Hydrological Model window 
+2020-02-07 13:22:18.283,Run Model ,MenuItem,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Run Model MenuItem on the The Cold Regions Hydrological Model window 
+2020-02-07 13:23:08.994,Project ,MenuItem,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Project MenuItem on the The Cold Regions Hydrological Model window 
+2020-02-07 13:23:38.803,Project ,MenuItem,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the Project MenuItem on the Dialog window 
+2020-02-07 13:23:42.514,Project ,MenuItem,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the Project MenuItem on the Dialog window 
+2020-02-07 13:23:46.146, ,Group,MouseWheel,Dialog,Desktop 1\Dialog\,MouseWheel on the  Group on the Dialog window 
+2020-02-07 13:23:48.563,Name ,Edit,LeftClick,Open,Desktop 1\Dialog\Open\,LeftClick on the Name Edit on the Open window 
+2020-02-07 13:23:50.572,Name ,Edit,LeftClick,Open,Desktop 1\Dialog\Open\,LeftClick on the Name Edit on the Open window 
+2020-02-07 13:24:34.876, ,Pane,LeftClick,ame=,Desktop 1\ame=\,LeftClick on the  Pane on the ame= window 
+2020-02-07 13:24:43.915, ,List,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the  List on the Dialog window 
+2020-02-07 13:24:47.450,Build ,MenuItem,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the Build MenuItem on the Dialog window 
+2020-02-07 13:24:48.947,basin ,ListItem,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the basin ListItem on the Select Modules for Model window 
+2020-02-07 13:24:49.704,obs ,ListItem,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the obs ListItem on the Select Modules for Model window 
+2020-02-07 13:24:52.355,intcp ,ListItem,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the intcp ListItem on the Select Modules for Model window 
+2020-02-07 13:24:54.484,&gt;&gt; ,Button,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the &gt;&gt; Button on the Select Modules for Model window 
+2020-02-07 13:24:56.378,Build ,Button,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the Build Button on the Select Modules for Model window 
+2020-02-07 13:24:57.563, ,List,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the  List on the Select Modules for Model window 
+2020-02-07 13:25:04.842, ,Pane,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the  Pane on the The Cold Regions Hydrological Model window 
+2020-02-07 13:25:06.003, ,List,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the  List on the The Cold Regions Hydrological Model window 
+2020-02-07 13:25:22.890, ,List,LeftClick,Dialog,Desktop 1\Dialog\,LeftClick on the  List on the Dialog window 
+2020-02-07 13:25:24.803,pbsm ,ListItem,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the pbsm ListItem on the Select Modules for Model window 
+2020-02-07 13:25:26.794,Build ,Button,LeftClick,Select Modules for Model,Desktop 1\Dialog\Select Modules for Model\,LeftClick on the Build Button on the Select Modules for Model window 
+2020-02-07 13:25:43.386, ,Pane,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the  Pane on the The Cold Regions Hydrological Model window 
+2020-02-07 13:25:45.635,hru_t ,ListItem,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the hru_t ListItem on the The Cold Regions Hydrological Model window 
+2020-02-07 13:25:46.754,Application ,MenuBar,LeftClick,The Cold Regions Hydrological Model,Desktop 1\The Cold Regions Hydrological Model\,LeftClick on the Application MenuBar on the The Cold Regions Hydrological Model window 
+2020-02-07 13:26:50.995,No ,Button,LeftClick,CRHM_GUI,Desktop 1\The Cold Regions Hydrological Model\CRHM_GUI\,LeftClick on the No Button on the CRHM_GUI window 
